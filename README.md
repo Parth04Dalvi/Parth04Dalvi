@@ -6,7 +6,7 @@ Hello there! I am Parth,graduate student pursuing Masters in Computer Science at
 
 🔥 Key Skills<br>Programming & Web Development: Python, JavaScript, React, Node.js, Django, SQL<br>Data Science & AI: Machine Learning, Deep Learning, YOLO, Predictive Analytics, NLP<br>Big Data & Cloud Computing: AWS, Azure, PySpark, Data Pipelines<br>Visualization & Business Intelligence: Tableau, Power BI, Matplotlib, Seaborn<br>Version Control & DevOps: Git, Docker, Kubernetes<br><br>
 🏆 Achievements
-<br>Smart India Hackathon Grand Finalist (2022) – Developed Anti-Drone Surveillance System<br>Published Research Paper (2024) – AI-driven Object Detection & NLP-based Interaction<br>Indian Air Force Collaboration (2023) – Built real-time drone intelligence & object detection<br>Best Volunteer – Helping Hearts Organization (2021)<br>
+<br>Smart India Hackathon Grand Finalist (2022) – Developed Anti-Drone Surveillance System<br>Published Research Paper (2024) – AI-driven Object Detection & NLP-based Interaction<br>Indian Air Force Collaboration (2023) – Built real-time drone intelligence & object detection<br>Best Volunteer (2021) – Helping Hearts Organization <br>
 
 📌 Featured Projects<br>🔹 FiBucks - Personal Expense Tracker → Full-Stack FinTech Web App<br>🔹 Temple Management System → Scalable React & Node.js Platform<br>🔹 Audio-Enabled Object Detection → AI-powered accessibility for visually impaired users<br>🔹 Anti-Drone Surveillance → Indian Air Force project for runway security<br><br>
 
