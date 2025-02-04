@@ -11,8 +11,9 @@
 
 📫 Connect With Me<br>
 📧 Email: parthsamirdalvi@gmail.com<br>
-🔗 LinkedIn: linkedin.com/in/parthdalvi04<br>
-💻 GitHub: github.com/Parth04Dalvi<br>
+🔗 LinkedIn: [linkedin.com/in/parthdalvi04](https://www.linkedin.com/in/parthdalvi04/
+)<br>
+💻 GitHub: [github.com/Parth04Dalvi](https://github.com/Parth04Dalvi )<br>
 
 
 ## 🌐 Socials:
