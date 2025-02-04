@@ -10,7 +10,8 @@
 📌 Featured Projects<br>🔹 FiBucks - Personal Expense Tracker → Full-Stack FinTech Web App<br>🔹 Temple Management System → Scalable React & Node.js Platform<br>🔹 Audio-Enabled Object Detection → AI-powered accessibility for visually impaired users<br>🔹 Anti-Drone Surveillance → Indian Air Force project for runway security<br><br>
 
 📫 Connect With Me<br>
-📧 Email: parthsamirdalvi@gmail.com<br>🔗 LinkedIn: linkedin.com/in/parthdalvi04<br>
+📧 Email: parthsamirdalvi@gmail.com<br>
+🔗 LinkedIn: linkedin.com/in/parthdalvi04<br>
 💻 GitHub: github.com/Parth04Dalvi<br>
 
 
