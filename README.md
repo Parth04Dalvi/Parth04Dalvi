@@ -55,12 +55,12 @@
 
 #### [FiBucks](https://fibucks.com)
 **Secure full-stack finance tracker.**
-* [cite_start]Built with **Next.js**, **MongoDB**, and **Tailwind CSS**. [cite: 93]
-* [cite_start]Implements real-time expense analytics and JWT-secured user sessions. [cite: 93, 94]
+* Built with **Next.js**, **MongoDB**, and **Tailwind CSS**.
+* Implements real-time expense analytics and JWT-secured user sessions.
 
 #### [Audio-Enabled Object Detection](https://github.com/Parth04Dalvi/Real-Time-Audio-Enabled-Object-Detection)
 **Edge AI assistive technology.**
-* [cite_start]Achieved 98% accuracy using **YOLOv8** with multimodal voice feedback via **Gemini API**. [cite: 98, 99]
+* Achieved 98% accuracy using **YOLOv8** with multimodal voice feedback via **Gemini API**.
 
 ---
 
