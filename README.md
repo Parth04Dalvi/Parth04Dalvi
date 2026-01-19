@@ -15,6 +15,8 @@
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 
 #### 🌐 Frontend & Frameworks
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -30,6 +32,10 @@
 #### 📊 Databases & Big Data
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+#### 🔧 Version Control & PM
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
 
@@ -49,12 +55,12 @@
 
 #### [FiBucks](https://fibucks.com)
 **Secure full-stack finance tracker.**
-* Built with **Next.js**, **MongoDB**, and **Tailwind CSS**.
-* Implements real-time analytics and JWT-secured user sessions.
+* [cite_start]Built with **Next.js**, **MongoDB**, and **Tailwind CSS**. [cite: 93]
+* [cite_start]Implements real-time expense analytics and JWT-secured user sessions. [cite: 93, 94]
 
 #### [Audio-Enabled Object Detection](https://github.com/Parth04Dalvi/Real-Time-Audio-Enabled-Object-Detection)
 **Edge AI assistive technology.**
-* Achieved 98% accuracy using **YOLOv8** with multimodal voice feedback via **Gemini API**.
+* [cite_start]Achieved 98% accuracy using **YOLOv8** with multimodal voice feedback via **Gemini API**. [cite: 98, 99]
 
 ---
 
@@ -64,7 +70,3 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parthsamirdalvi@gmail.com)
 
 ---
-
-
-
-<img width="576" height="653" alt="image" src="https://github.com/user-attachments/assets/890179c5-908b-41b9-a524-c64b92a1dd2d" />
