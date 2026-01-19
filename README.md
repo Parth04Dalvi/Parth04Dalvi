@@ -30,13 +30,11 @@
 #### 📊 Databases & Big Data
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 
 ---
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Parth04Dalvi&show_icons=true&theme=dark" alt="Parth's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parth04Dalvi&layout=compact&theme=dark" alt="Top Langs" />
 </p>
 
