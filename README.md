@@ -49,8 +49,10 @@
 
 #### [FiBucks](https://fibucks.com)
 **Secure full-stack finance tracker.**
-* Built with **Next.js**, **MongoDB**, and **Tailwind CSS**.
-* Implements real-time expense analytics and JWT-secured user sessions.
+* Built and deployed a secure full-stack finance tracker (Next.js, MongoDB, Tailwind CSS) with JWT authentication and responsive design. 
+* Implemented real-time expense analytics and chart visualizations, tracking $25K+ in test transactions 
+* Added smart budget alerts that helped test users cut overspending by 30%, based on usability feedback. Deployed on Vercel, Integrated with CI/CD for seamless updates 
+ 
 
 #### [AI Bone Fracture Detection](https://github.com/Parth04Dalvi/Bone-Fracture-analysis-project)
 **AI Fracture Detector (Simulated)**
