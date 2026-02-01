@@ -52,12 +52,17 @@
 * Built with **Next.js**, **MongoDB**, and **Tailwind CSS**.
 * Implements real-time expense analytics and JWT-secured user sessions.
 
+#### [AI Bone Fracture Detection](https://github.com/Parth04Dalvi/Bone-Fracture-analysis-project)
+**AI Fracture Detector (Simulated)**
+* Image Upload & Preview: Allows users to upload any image (simulated X-ray) and displays it clearly in a dedicated viewer panel.
+* Simulated ML Analysis: Runs a mock diagnostic process that randomly determines the presence of a fracture, calculates a confidence score, and suggests a treatment recommendation.
+* Bounding Box Localization: If a fracture is detected in the simulation, a red bounding box is dynamically rendered over the image preview, marking the estimated location of the fracture.
+
 #### Real Time Audio-Enabled Object Detection System with NLP - Based Interaction
  
 * **Achieved 98% detection accuracy** in real-time object recognition using YOLOv8, validated on cluttered test environments 
 * Integrated voice interaction (Gemini API) to provide verbal object feedback and contextual lookups 
 * Built interactive pipeline to support assistive tech use cases (e.g., accessibility for visually impaired)
-
 
 #### Resume Parsing & Candidate Matching Project | NLP , FastAPI, MongoDB, Python (NER)
 
@@ -65,10 +70,7 @@
 * Developed a bias-aware candidate job matcher, reducing recruiter screening time by 35% in controlled tests 
 * **Processed 1,000+ resumes** during internal evaluation to validate performance and robustness
 
-#### AI Fracture Detector (Simulated)
-* Image Upload & Preview: Allows users to upload any image (simulated X-ray) and displays it clearly in a dedicated viewer panel.
-* Simulated ML Analysis: Runs a mock diagnostic process that randomly determines the presence of a fracture, calculates a confidence score, and suggests a treatment recommendation.
-* Bounding Box Localization: If a fracture is detected in the simulation, a red bounding box is dynamically rendered over the image preview, marking the estimated location of the fracture.
+
 ---
 
 ### 📫 Let's Connect!
