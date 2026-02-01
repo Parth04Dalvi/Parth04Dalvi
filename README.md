@@ -52,10 +52,18 @@
 * Built with **Next.js**, **MongoDB**, and **Tailwind CSS**.
 * Implements real-time expense analytics and JWT-secured user sessions.
 
-#### [Audio-Enabled Object Detection](https://github.com/Parth04Dalvi/Real-Time-Audio-Enabled-Object-Detection)
-**Edge AI assistive technology.**
-* Achieved 98% accuracy using **YOLOv8** with multimodal voice feedback via **Gemini API**.
+#### [Real Time Audio-Enabled Object Detection System with NLP - Based Interaction]
+ 
+* **Achieved 98% detection accuracy** in real-time object recognition using YOLOv8, validated on cluttered test environments 
+* Integrated voice interaction (Gemini API) to provide verbal object feedback and contextual lookups 
+* Built interactive pipeline to support assistive tech use cases (e.g., accessibility for visually impaired)
 
+
+#### [Resume Parsing & Candidate Matching Project | NLP , FastAPI, MongoDB, Python (NER)]
+
+* Engineered an **NLP-powered parser** to extract skills, education, and work experience from PDF/DOCX resumes with 92% accuracy 
+* Developed a bias-aware candidate job matcher, reducing recruiter screening time by 35% in controlled tests 
+* **Processed 1,000+ resumes** during internal evaluation to validate performance and robustness 
 ---
 
 ### 📫 Let's Connect!
