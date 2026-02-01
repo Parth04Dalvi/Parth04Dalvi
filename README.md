@@ -56,9 +56,9 @@
 
 #### [AI Bone Fracture Detection](https://github.com/Parth04Dalvi/Bone-Fracture-analysis-project)
 **AI Fracture Detector (Simulated)**
-* Image Upload & Preview: Allows users to upload any image (simulated X-ray) and displays it clearly in a dedicated viewer panel.
-* Simulated ML Analysis: Runs a mock diagnostic process that randomly determines the presence of a fracture, calculates a confidence score, and suggests a treatment recommendation.
-* Bounding Box Localization: If a fracture is detected in the simulation, a red bounding box is dynamically rendered over the image preview, marking the estimated location of the fracture.
+* Allows users to upload any image (simulated X-ray) and displays it clearly in a dedicated viewer panel.
+* Runs a mock diagnostic process that randomly determines the presence of a fracture, calculates a confidence score, and suggests a treatment recommendation.
+* If a fracture is detected in the simulation, a red bounding box is dynamically rendered over the image preview, marking the estimated location of the fracture.
 
 #### Real Time Audio-Enabled Object Detection System with NLP - Based Interaction
  
