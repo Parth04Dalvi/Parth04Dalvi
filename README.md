@@ -52,14 +52,14 @@
 * Built with **Next.js**, **MongoDB**, and **Tailwind CSS**.
 * Implements real-time expense analytics and JWT-secured user sessions.
 
-#### [Real Time Audio-Enabled Object Detection System with NLP - Based Interaction]
+#### Real Time Audio-Enabled Object Detection System with NLP - Based Interaction
  
 * **Achieved 98% detection accuracy** in real-time object recognition using YOLOv8, validated on cluttered test environments 
 * Integrated voice interaction (Gemini API) to provide verbal object feedback and contextual lookups 
 * Built interactive pipeline to support assistive tech use cases (e.g., accessibility for visually impaired)
 
 
-#### [Resume Parsing & Candidate Matching Project | NLP , FastAPI, MongoDB, Python (NER)]
+#### Resume Parsing & Candidate Matching Project | NLP , FastAPI, MongoDB, Python (NER)
 
 * Engineered an **NLP-powered parser** to extract skills, education, and work experience from PDF/DOCX resumes with 92% accuracy 
 * Developed a bias-aware candidate job matcher, reducing recruiter screening time by 35% in controlled tests 
