@@ -38,42 +38,6 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 
----
-
-### 🚀 Top Projects
-
-#### [ImposterAI](https://github.com/Parth04Dalvi/AI-Social-Deduction-Game-Bot-Python-NLP-WebSockets-)
-**Real-time social deduction game engine.**
-* Integrates **FastAPI** WebSockets with **Gemini AI** for context-aware deception logic.
-* Features a stateful `GameManager` for secret role assignment and voting phases.
-
-#### [FiBucks](https://fibucks.com)
-**Secure full-stack finance tracker.**
-* Built and deployed a secure full-stack finance tracker (Next.js, MongoDB, Tailwind CSS) with JWT authentication and responsive design. 
-* Implemented real-time expense analytics and chart visualizations, tracking $25K+ in test transactions 
-* Added smart budget alerts that helped test users cut overspending by 30%, based on usability feedback. Deployed on Vercel, Integrated with CI/CD for seamless updates 
- 
-
-#### [AI Bone Fracture Detection](https://github.com/Parth04Dalvi/Bone-Fracture-analysis-project)
-**AI Fracture Detector (Simulated)**
-* Allows users to upload any image (simulated X-ray) and displays it clearly in a dedicated viewer panel.
-* Runs a mock diagnostic process that randomly determines the presence of a fracture, calculates a confidence score, and suggests a treatment recommendation.
-* If a fracture is detected in the simulation, a red bounding box is dynamically rendered over the image preview, marking the estimated location of the fracture.
-
-#### Real Time Audio-Enabled Object Detection System with NLP - Based Interaction
- 
-* **Achieved 98% detection accuracy** in real-time object recognition using YOLOv8, validated on cluttered test environments 
-* Integrated voice interaction (Gemini API) to provide verbal object feedback and contextual lookups 
-* Built interactive pipeline to support assistive tech use cases (e.g., accessibility for visually impaired)
-
-#### Resume Parsing & Candidate Matching Project | NLP , FastAPI, MongoDB, Python (NER)
-
-* Engineered an **NLP-powered parser** to extract skills, education, and work experience from PDF/DOCX resumes with 92% accuracy 
-* Developed a bias-aware candidate job matcher, reducing recruiter screening time by 35% in controlled tests 
-* **Processed 1,000+ resumes** during internal evaluation to validate performance and robustness
-
-
----
 
 ### 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parthdalvi04/)
